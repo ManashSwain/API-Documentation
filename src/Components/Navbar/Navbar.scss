@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 15%;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    img{
+        width: 20px;
+    }
+    .navItems{
+        display: flex;
+        gap: 20px;
+    }
+}
